@@ -11,7 +11,7 @@ Please see the repository 'wh-at-helpdesk' where you can view the C# source code
 # Installation insutrctions
 Change BIOS system date to 24/01/2017 (the developer certificate shipped with these files has expired). Download the repository as a zio, extract and right click on Add-AppDevPackage.ps1 and select 'Run with PowerShell'. The app will install. 
 
-Use the following e-mail address to sign in: howarda@wh-at.net (this email address is no longer active but can still be used to log into the app).
+Use the following e-mail address to sign in: howarda @ wh-at.net (remove spaces - this email address is no longer active but can still be used to log into the app).
 
 # Known bugs
 The build should be stable but please do not attempt to submit tickets from this build - the email address is inactive. The security certificate has expired so it is crucial that the BIOS system date is set to 24/01/2017 in order for the installation to be possible (running this app in a virtualised Windows 10 environment is recommended). 
